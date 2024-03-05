@@ -1,0 +1,12 @@
+.copy {
+    background-color: #004a96;
+    height: 80px;
+    width: 100%;
+    display: grid;
+    grid-template-columns: auto auto;
+    place-items: center;
+}
+
+.copy p , .copy p a{
+    color: #fff;
+}

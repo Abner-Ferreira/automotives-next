@@ -1,0 +1,20 @@
+.bg-body-tertiary {
+    background-color: transparent !important;
+}
+
+
+
+.container-fluid{
+    justify-content: center !important;
+    align-items: center;
+}
+
+.navbar{
+    padding: 0;
+
+}
+
+.navbar-brand {
+    font-size: 16px;
+    margin-left: 20px !important;
+}
